@@ -1,0 +1,23 @@
+# База данных (создаётся автоматически)
+macros.db
+*.db-journal
+*.db-wal
+
+# Скомпилированные файлы
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Файлы Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Системные файлы
+.DS_Store
+Thumbs.db
