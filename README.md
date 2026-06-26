@@ -64,7 +64,7 @@
 
 1. **Склонируй репозиторий:**
 ```bash
-git clone https://github.com/твое-имя/aegis-macro.git
+https://github.com/MetMatumba/aegis_macro.git
 
 ```
 
