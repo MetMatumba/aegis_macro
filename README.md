@@ -130,5 +130,5 @@ https://github.com/MetMatumba/aegis_macro.git
 ## 🙏 Благодарности
 
 * [Команде SQLite](https://www.sqlite.org/) за самую легкую и мощную встраиваемую СУБД.
-* Microsoft за мощный инструментарий Visual Studio 2026.
+* [Microsoft](https://www.microsoft.com/) за мощный инструментарий [Visual Studio 2026](https://visualstudio.microsoft.com/).
 * Сообществу C++ за вдохновение в реализации `spin-lock` таймеров.
