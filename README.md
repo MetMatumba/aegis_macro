@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AEGIS MACRO
+# ⚡ AEGIS MACRO ⚡
 
 ### Высокоточный инструмент автоматизации мыши
 
@@ -114,7 +114,7 @@ git clone https://github.com/твое-имя/aegis-macro.git
 
 ## 📜 Лицензия
 
-Проект распространяется под лицензией **MIT**. Вы можете свободно использовать, модифицировать и распространять этот код. Смотрите файл [LICENSE]([https://github.com/MetMatumba/aegis_macro/blob/main/LICENSE]) для подробностей.
+Проект распространяется под лицензией **MIT**. Вы можете свободно использовать, модифицировать и распространять этот код. Смотрите файл [LICENSE](https://github.com/MetMatumba/aegis_macro/blob/main/LICENSE) для подробностей.
 
 ---
 
